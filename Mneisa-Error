@@ -1,0 +1,10 @@
+2020-04-06 04:06:43.198 [info] <0.268.0> Waiting for Mnesia tables for 30000 ms, 9 retries left
+2020-04-06 04:07:13.199 [warning] <0.268.0> Error while waiting for Mnesia tables: {timeout_waiting_for_tables,[rabbit_user,rabbit_user_permission,rabbit_topic_permission,rabbit_vhost,rabbit_durable_route,rabbit_durable_exchange,rabbit_runtime_parameters,rabbit_durable_queue]}
+2020-04-06 04:07:13.200 [info] <0.268.0> Waiting for Mnesia tables for 30000 ms, 8 retries left
+2020-04-06 04:07:32.807 [info] <0.303.0> RabbitMQ hasn't finished starting yet. Waiting for startup to finish before stopping...
+2020-04-06 04:07:43.200 [warning] <0.268.0> Error while waiting for Mnesia tables: {timeout_waiting_for_tables,[rabbit_user,rabbit_user_permission,rabbit_topic_permission,rabbit_vhost,rabbit_durable_route,rabbit_durable_exchange,rabbit_runtime_parameters,rabbit_durable_queue]}
+2020-04-06 04:07:43.200 [info] <0.268.0> Waiting for Mnesia tables for 30000 ms, 7 retries left
+2020-04-06 04:08:13.202 [warning] <0.268.0> Error while waiting for Mnesia tables: {timeout_waiting_for_tables,[rabbit_user,rabbit_user_permission,rabbit_topic_permission,rabbit_vhost,rabbit_durable_route,rabbit_durable_exchange,rabbit_runtime_parameters,rabbit_durable_queue]}
+2020-04-06 04:08:13.203 [info] <0.268.0> Waiting for Mnesia tables for 30000 ms, 6 retries left
+2020-04-06 04:08:43.203 [warning] <0.268.0> Error while waiting for Mnesia tables: {timeout_waiting_for_tables,[rabbit_user,rabbit_user_permission,rabbit_topic_permission,rabbit_vhost,rabbit_durable_route,rabbit_durable_exchange,rabbit_runtime_parameters,rabbit_durable_queue]}
+2020-04-06 04:08:43.204 [info] <0.268.0> Waiting for Mnesia tables for 30000 ms, 5 retries left
